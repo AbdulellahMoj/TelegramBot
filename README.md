@@ -27,40 +27,30 @@ Build your **first functional Telegram bot using Python** – in a fun, hands-on
 
 ## 🛠 Requirements
 
-- Python 3.7 or higher
+- Python 3.7 or higher  
+- A Telegram account  
+- A code editor (VSCode, PyCharm, etc.)  
 - Install dependencies:
   ```bash
   pip install pyTelegramBotAPI python-dotenv
-  ```
-- A code editor (VSCode, PyCharm, etc.)
-- Telegram account
 
----
+🧠 What You’ll Build
 
-## 🧠 What You’ll Build
+    💬 Smart message responses
 
-- 💬 Smart message responses  
-- 🎮 Interactive inline buttons  
-- ➗ A functional calculator with dynamic input
+    🎮 Interactive inline buttons
 
----
+    ➗ A functional calculator with dynamic input
 
-## 📝 Workshop Code
+📝 Workshop Code
+📁 Resource	🔗 Link
+💻 Full Source Code	View on Google Colab
+📊 Presentation Slides	View on Google Drive
+💬 Got Questions?
 
-| 📁 **Resource**      | 🔗 **Link** |
-|---------------------|-------------|
-| 💻 Full Source Code | [Click here to view/download](https://drive.google.com/file/d/1PQQYzFxdpD8wxVzLclpSIfHANglwJhe6/view?usp=sharing) |
-
-
----
-
-## 💬 Got Questions?
-
-Reach out anytime!  
-📢 [@AbdulallahMoj](https://x.com/abdulellahmoj) | [@ProggClub_KAU](https://x.com/proggclub_kau)
-
----
-
-## 🌟 Let’s Build Something Cool Together!
+Reach out anytime!
+📢 @AbdulallahMoj
+📢 @ProggClub_KAU
+🌟 Let’s Build Something Cool Together!
 
 Share your bot ideas, keep coding, and have fun! 🚀
