@@ -1,4 +1,4 @@
-![Workshop Banner](path/to/your-banner-image.png)
+![Workshop Banner](Readmefiles/Telegram Bot Workshop Presentation (Whiteboard)(1).png)
 # 🤖 Telegram Bot Workshop
 
 **By Abdulellah Mojalled**  
