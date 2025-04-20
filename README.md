@@ -51,14 +51,6 @@ Build your **first functional Telegram bot using Python** – in a fun, hands-on
 |---------------------|-------------|
 | 💻 Full Source Code | [Click here to view/download](https://drive.google.com/file/d/1PQQYzFxdpD8wxVzLclpSIfHANglwJhe6/view?usp=sharing) |
 
----
-
-## 🐍 Python Basics Example
-
-```python
-def greet(name):
-    return f"Hello {name}"
-```
 
 ---
 
