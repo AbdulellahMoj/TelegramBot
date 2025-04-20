@@ -1,4 +1,4 @@
-![Workshop Banner](Readmefiles/telegram-bot-workshop-banner.png)
+![Workshop Banner](Readmefiles/Telegram.png)
 
 # 🤖 Telegram Bot Workshop
 
