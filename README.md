@@ -15,42 +15,52 @@ Build your **first functional Telegram bot using Python** – in a fun, hands-on
 
 ## 🔧 What You’ll Learn
 
-- Set up a bot with [@BotFather](https://t.me/BotFather)  
+- Set up a bot using [@BotFather](https://t.me/BotFather)  
 - Use `pyTelegramBotAPI` to:
   - Handle commands: `/start`, `/help`, `/time`, `/calc`
-  - Greet users automatically
-  - Echo messages
-  - Create inline buttons
-  - Build a working calculator!
+  - Send welcome messages
+  - Echo user input
+  - Add inline buttons
+  - Build a mini calculator
 
 ---
 
 ## 🛠 Requirements
 
-- Python 3.7 or higher  
-- A Telegram account  
-- A code editor (VSCode, PyCharm, etc.)  
+- Python 3.7+
+- Telegram account
+- Code editor (VSCode, PyCharm, etc.)
 - Install dependencies:
   ```bash
   pip install pyTelegramBotAPI python-dotenv
+  ```
 
-🧠 What You’ll Build
+---
 
-    💬 Smart message responses
+## 🧠 What You’ll Build
 
-    🎮 Interactive inline buttons
+- 💬 Smart auto-responses  
+- 🎮 Interactive inline buttons  
+- ➗ A real-time calculator
 
-    ➗ A functional calculator with dynamic input
+---
 
-📝 Workshop Code
-📁 Resource	🔗 Link
-💻 Full Source Code	View on Google Colab
-📊 Presentation Slides	View on Google Drive
-💬 Got Questions?
+## 📝 Workshop Resources
 
-Reach out anytime!
-📢 @AbdulallahMoj
-📢 @ProggClub_KAU
-🌟 Let’s Build Something Cool Together!
+| 📁 **Resource**        | 🔗 **Link** |
+|------------------------|-------------|
+| 💻 Full Source Code     | [Click here to view](https://colab.research.google.com/drive/1PQQYzFxdpD8wxVzLclpSIfHANglwJhe6) |
+| 🖥️ Slides               | [Click here to view](https://drive.google.com/file/d/1JrbEFXn3vFpDErDWtoJYrIokRXN8Oo84/view?usp=sharing) |
+
+---
+
+## 💬 Got Questions?
+
+Reach out anytime!  
+📢 [@AbdulallahMoj](https://x.com/abdulellahmoj) | [@ProggClub_KAU](https://x.com/proggclub_kau)
+
+---
+
+## 🌟 Let’s Build Something Cool Together!
 
 Share your bot ideas, keep coding, and have fun! 🚀
