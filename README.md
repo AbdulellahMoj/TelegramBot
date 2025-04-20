@@ -2,6 +2,8 @@
 
 # 🤖 Telegram Bot Workshop
 
+> Build your first Telegram Bot using Python! This workshop covers setting up a bot, handling commands, adding inline buttons, and even building a simple calculator — all with pyTelegramBotAPI. Perfect for beginners who want hands-on experience.
+
 **By Abdulellah Mojalled**  
 **Hosted by [@ProggClub_KAU](https://x.com/proggclub_kau)**
 
